@@ -1,17 +1,17 @@
-# Resources for Statistical Genetics
+# 统计遗传学资源
 
-This repository lists resources needed for GWAS and statistical genetics.
+GWAS和统计遗传学的资源
 
-The content is mainly aimed for people starting in the field of statistical genetics. 
+内容主要面向统计遗传学初学者 
 
-There are three lists:
+有三个内容列表:
 
-- Available [genetic data](statgen-data.md).
-- [Readings](statgen-reading.md), mostly research articles.
-- [Software](statgen-software.md) to perform statistical analyses on genetic data.
-- [Online learning](statgen-online-learning.md) material.
+- 可用的[遗传数据](statgen-data.md).
+- [论文](statgen-reading.md), 主要是研究文章.
+- 对遗传数据进行操作的[软件](statgen-software.md).
+- [在线课程](statgen-online-learning.md) 资料.
  
-Podcast about [GWAS](https://everythinghertz.com/85) (_GWAS big teeth you have, grandmother_) by [Everything Hertz](https://everythinghertz.com/) (with [Kevin Mitchell](https://twitter.com/WiringTheBrain)).
+[GWAS](https://everythinghertz.com/85)播课 (_GWAS big teeth you have, grandmother_) [Everything Hertz](https://everythinghertz.com/) (with [Kevin Mitchell](https://twitter.com/WiringTheBrain)).
  
  
 I have started this collection while working on [my PhD thesis](https://drive.switch.ch/index.php/s/FpWZlbw4Rfq20le) and hope it can be extended continuously.
